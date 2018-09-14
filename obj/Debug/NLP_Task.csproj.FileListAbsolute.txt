@@ -1,0 +1,28 @@
+C:\Users\hamed Refaat\Documents\Visual Studio 2013\Projects\NLP_Task\NLP_Task\bin\Debug\NLP_Task.exe.config
+C:\Users\hamed Refaat\Documents\Visual Studio 2013\Projects\NLP_Task\NLP_Task\bin\Debug\NLP_Task.exe
+C:\Users\hamed Refaat\Documents\Visual Studio 2013\Projects\NLP_Task\NLP_Task\bin\Debug\NLP_Task.pdb
+C:\Users\hamed Refaat\Documents\Visual Studio 2013\Projects\NLP_Task\NLP_Task\obj\Debug\NLP_Task.Form1.resources
+C:\Users\hamed Refaat\Documents\Visual Studio 2013\Projects\NLP_Task\NLP_Task\obj\Debug\NLP_Task.Properties.Resources.resources
+C:\Users\hamed Refaat\Documents\Visual Studio 2013\Projects\NLP_Task\NLP_Task\obj\Debug\NLP_Task.csproj.GenerateResource.Cache
+C:\Users\hamed Refaat\Documents\Visual Studio 2013\Projects\NLP_Task\NLP_Task\obj\Debug\NLP_Task.exe.licenses
+C:\Users\hamed Refaat\Documents\Visual Studio 2013\Projects\NLP_Task\NLP_Task\obj\Debug\NLP_Task.exe
+C:\Users\hamed Refaat\Documents\Visual Studio 2013\Projects\NLP_Task\NLP_Task\obj\Debug\NLP_Task.pdb
+C:\Users\hamed Refaat\Documents\Visual Studio 2013\Projects\NLP_Task\NLP_Task\obj\Debug\NLP_Task.csprojResolveAssemblyReference.cache
+C:\Users\hamed Refaat\Documents\Visual Studio 2013\Projects\NLP_Task\NLP_Task\bin\Debug\LemmaSharp.dll
+C:\Users\hamed Refaat\Documents\Visual Studio 2013\Projects\NLP_Task\NLP_Task\bin\Debug\LemmaSharpPrebuilt.dll
+C:\Users\hamed Refaat\Documents\Visual Studio 2013\Projects\NLP_Task\NLP_Task\bin\Debug\LemmaSharpPrebuiltCompact.dll
+C:\Users\hamed Refaat\Documents\Visual Studio 2013\Projects\NLP_Task\NLP_Task\bin\Debug\LemmaSharpPrebuiltFull.dll
+C:\Users\hamed Refaat\Documents\Visual Studio 2013\Projects\NLP_Task\NLP_Task\bin\Debug\Lzma#.dll
+D:\Projects\Projects\NLP_Task\NLP_Task\bin\Debug\NLP_Task.exe.config
+D:\Projects\Projects\NLP_Task\NLP_Task\obj\Debug\NLP_Task.exe
+D:\Projects\Projects\NLP_Task\NLP_Task\obj\Debug\NLP_Task.pdb
+D:\Projects\Projects\NLP_Task\NLP_Task\bin\Debug\NLP_Task.exe
+D:\Projects\Projects\NLP_Task\NLP_Task\bin\Debug\NLP_Task.pdb
+D:\Projects\Projects\NLP_Task\NLP_Task\obj\Debug\NLP_Task.Form1.resources
+D:\Projects\Projects\NLP_Task\NLP_Task\obj\Debug\NLP_Task.Properties.Resources.resources
+D:\Projects\Projects\NLP_Task\NLP_Task\obj\Debug\NLP_Task.csproj.GenerateResource.Cache
+D:\Projects\Projects\NLP_Task\NLP_Task\obj\Debug\NLP_Task.exe.licenses
+D:\Projects\Projects\NLP_Task\NLP_Task\obj\Debug\NLP_Task.csprojResolveAssemblyReference.cache
+D:\Projects\Projects\NLP\NLP_Task\bin\Debug\NLP_Task.exe.config
+D:\Projects\Projects\NLP\NLP_Task\obj\Debug\NLP_Task.exe
+D:\Projects\Projects\NLP\NLP_Task\obj\Debug\NLP_Task.pdb
